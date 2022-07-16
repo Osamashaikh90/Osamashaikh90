@@ -2,6 +2,8 @@
 
 <p align=center><strong> Glad to see you here !! 🌠 </strong></p>
 
+![Profile views](https://gpvc.arturio.dev/Osamashaikh90)
+
 
 
 Here are some ideas to get you started:
