@@ -1,7 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&height=70&center=true&size=37&lines=Hi+there,++Buddy+👋;This+is+Osama+Shaikh++🙋🏻‍♂️;Welcome+To+My+Github+Profile++✌)](https://git.io/typing-svg)
 
-<!--
-**Osamashaikh90/Osamashaikh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center><strong> Glad to see you here !! 🌠 </strong></p>
+
+
 
 Here are some ideas to get you started:
 
