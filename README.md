@@ -9,6 +9,7 @@
 - 👀 I’m interested in Web development 💻.. <br>
 - 🌱 I’m currently learning Javascript 💫 <br>
 - 💞️ I’m looking to collaborate with web developers and AOSP.. <br>
+- 📫 How to reach me **shaikhosama499@gmail.com**
 - 😶‍🌫️ Full stack developer soon ✨.. <br>
 <br>
 
@@ -17,4 +18,16 @@
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamashaikh90&theme=radical" />
 
+<br>
+<!--Social Networks  -->
+<h2 align=center> Connect with me 🫂</h2>
+<p align=center>
+<a href="https://www.linkedin.com/in/osama-shaikh-8641a5211/"><img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/osamashaikh_786/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://twitter.com/Osamash03705044"><img src="https://img.shields.io/badge/Twitter-0099ff?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="mailto:shaikhosama499@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90" alt="Osamashaikh90" /></a> </p>
 <br>
