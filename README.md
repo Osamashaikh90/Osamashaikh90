@@ -18,6 +18,9 @@
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamashaikh90&theme=radical" />
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" alt="Osamashaikh90" /></a> </p>
+<br>
+
 <br>
 <!--Social Networks  -->
 <h2 align=center> Connect with me 🫂</h2>
@@ -29,5 +32,4 @@
  
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" alt="Osamashaikh90" /></a> </p>
-<br>
+
