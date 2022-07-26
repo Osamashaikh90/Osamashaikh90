@@ -15,7 +15,7 @@
 
 <!-- Github stats -->
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=tokyo&count_private=true" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamashaikh90&theme=radical" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90&show_icons=true&theme=radical&count_private=true" alt="Osamashaikh90" /></a> </p>
