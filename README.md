@@ -15,10 +15,10 @@
 
 <!-- Github stats -->
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamashaikh90&theme=tokyonight" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Osamashaikh90&show_icons=true&theme=tokyonight_duo&count_private=true" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osamashaikh90&theme=tokyonight_duo" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90&show_icons=true&theme=tokyonight&count_private=true" alt="Osamashaikh90" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Osamashaikh90&show_icons=true&theme=tokyonight_duo&count_private=true" alt="Osamashaikh90" /></a> </p>
 <br>
 
 <br>
