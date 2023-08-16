@@ -2,7 +2,7 @@
 
 <p align=center><strong> Gratified to see you here !! ✨ </strong></p>
 
-![Profile views](https://gpvc.arturio.dev/Osamashaikh90)
+![](https://komarev.com/ghpvc/?username=Osamashaikh90&color=EE3F86)
 
 
 - 👋 Hey!, I’m Osama_Shaikh <br>
