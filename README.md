@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning NextJS 💫 <br>
 - 💞️ I’m looking to collaborate with web developers .. <br>
 - 📫 How to reach me **shaikhosama499@gmail.com**:
-- 😶‍🌫️ Full stack developer soon ✨.. <br>
+- 😶‍🌫️ Full stack developer 🤓✨ <br>
 <br>
 
 <!-- Github stats -->
