@@ -35,6 +35,7 @@
 <a href="https://www.instagram.com/osamashaikh_786/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://twitter.com/Osamash03705044"><img src="https://img.shields.io/badge/Twitter-0099ff?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="mailto:shaikhosama499@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.to/osamashaikh90"><img src="https://img.shields.io/badge/dev-%23000000.svg?style=for-the-badge&logo=dev&logoColor=white"></a>
  
 <br>
 
