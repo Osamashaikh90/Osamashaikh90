@@ -4,7 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Osamashaikh90&color=EE3F86)
 
-
 - 👋 Hey!, I’m Osama_Shaikh <br>
 - 👀 I’m interested in Web development 💻.. <br>
 - 🌱 I’m currently learning NextJS 💫 <br>
